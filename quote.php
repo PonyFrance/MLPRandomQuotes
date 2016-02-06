@@ -17,7 +17,7 @@ $random_text = array(
 	"<b>Corrupted Fluttershy:</b> Your face! <i>[slams the bucket on Twilight Sparkle's head]</i>",
 	"<i>[Discord tastes The Rainbow]</i>",
 	"<b>Pinkie Pie:</b> Ba-kaw! Enough chit-chat! Time is candy!",
-	"<b>Princess Luna:</b> But this is the traditional royal Canterlot voice! It is tradition to speak using the Royal \"we\", and to use <i>[louder and echoed]</i> THIS MUCH VOLUME WHEN ADDRESSING OUR SUBJECTS!",
+	"<b>Princess Luna:</b> But this is the traditional royal Canterlot voice! It is tradition to speak using the Royal \"we\", and to use<br><i>[louder and echoed]</i> THIS MUCH VOLUME WHEN ADDRESSING OUR SUBJECTS!",
 	"<b>Rarity:</b> Uhh, let me guess: apple sauce?<br><b>Sweetie Belle:</b> Nope, toast!",
 	"<b>Granny Smith:</b> Darn tootin'! It's time for some good old-fashioned Zap Apple Jammin'!",
 	"<b>Derpy Hooves:</b> I just don't know what went wrong! <i>[gets electrocuted by the cloud]</i><br><b>Rainbow Dash:</b> <i>[sarcastically]</i> Yeah, it's a mystery.",
