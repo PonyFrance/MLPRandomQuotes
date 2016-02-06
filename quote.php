@@ -5,7 +5,7 @@ $random_text = array(
 	"<b>Fluttershy:</b> Um, my name is <i>[whispers]</i> Fluttershy...",
 	"<b>Twilight Sparkle:</b> QUIET!<br><b>Pinkie Pie:</b> And then I said, \"Oatmeal, are you craz--\" oh.",
 	"<b>Big McIntosh:</b> Eeyup.",
-	"<b>Twilight Sparkle:</b> Scarf? Check. Saddle? Check. Boots? Check. Spike refusing to get up and going back to sleep? Check. It's a good thing I'm so organized. I'm ready!",
+	"<b>Twilight Sparkle:</b> Scarf? Check. Saddle? Check. Boots? Check. Spike refusing to get up and going back to sleep? Check.",
 	"<b>Rainbow Dash:</b> The shape's fine, just make the whole thing you know, cooler. It needs to be about 20% cooler.",
 	"<b>Pinkie Pie:</b> It's my tail! It's my tail! It's a-twitchin' twitchin'! And you know what that means...",
 	"<b>Apple Bloom:</b> Oh wait, now I know how to call a chicken! Scootaloo! Scoot-Scootaloo!",

@@ -8,7 +8,7 @@ Source: Transcripts from the [Friendship is Magic Wiki (wikia)](http://mlp.wikia
 You can send pull requests to add more. Just fork us, commit your change and make a pull request from the GitHub's interface.
 
 **Our "rules":**  
-- No more than 135 chars in a single line (html excluded)
+- No more than 150 chars in a single line (html excluded)
 - No more than two lines (if you use a `<br>` tag)
 - Names of who is speaking in bold
 - Actions in emphasis
